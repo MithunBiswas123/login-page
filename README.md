@@ -1,4 +1,5 @@
 
 ## Installation
 
-npm install login-page
+```
+npm install my login-page
